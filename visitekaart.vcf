@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Reches;Eyal;;;
+FN:Eyal Reches
+ORG:Epoxy Art Gallery
+TITLE:FArt Director
+TEL;TYPE=cell:++31 6 5069 0281
+TEL;TYPE=work:+31 85 0188488
+EMAIL:info@epoxyartgallery.nl
+URL:https://epoxyartgallery.nl
+LOGO;VALUE=URI:https://epoxyartgallery.nl/logo.png
+END:VCARD
